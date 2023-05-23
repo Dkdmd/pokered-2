@@ -21,5 +21,5 @@ TeamMoves:
 	db LORELEI, BLIZZARD
 	db BRUNO,   FISSURE
 	db AGATHA,  TOXIC
-	db LANCE,   BARRIER
+	db LANCE,   EMBER
 	db -1 ; end
