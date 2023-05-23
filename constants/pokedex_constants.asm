@@ -153,7 +153,7 @@
 	const DEX_DRATINI    ; 147
 	const DEX_DRAGONAIR  ; 148
 	const DEX_DRAGONITE  ; 149
-	const DEX_MEWTWO     ; 150
-	const DEX_MEW        ; 151
+	const DEX_MEW     ; 150
+	const DEX_MEWTWO        ; 151
 
 DEF NUM_POKEMON EQU const_value - 1
